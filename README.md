@@ -1,16 +1,3 @@
-# refee
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Лабораторная 1: Контейнеры
+##Главный экран
+<img width="260" alt="Снимок экрана 2024-03-14 в 11 36 28" src="https://github.com/stronger20042005/labaone/assets/43694376/06902c20-4d60-47f1-a711-8104205ded1b">
